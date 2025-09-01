@@ -148,3 +148,10 @@ a{
     display: flex;
     justify-content: center;
 }
+
+.imgs{
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 15px;
+}
