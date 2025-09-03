@@ -13,7 +13,6 @@ body {
     background-color: #ffe5ec;
 }
 
-/* Layout principal */
 .toposite {
     display: flex;
     justify-content: space-evenly;
@@ -22,7 +21,6 @@ body {
     gap: 20px;
 }
 
-/* Input e botão */
 .inp1 {
     height: 40px;
     width: 400px;
@@ -39,13 +37,11 @@ body {
     border-color: #ff1aff;
 }
 
-/* Linha */
 hr {
     background-color: black;
     border: 0.5px solid;
 }
 
-/* Menu */
 #menutp {
     display: flex;
     justify-content: space-around;
@@ -63,21 +59,18 @@ hr {
     flex-wrap: wrap;
 }
 
-/* Títulos */
 h1 {
     display: flex;
     justify-content: center;
     margin-bottom: 24px;
 }
 
-/* Logo */
 .imglogo {
     display: flex;
     justify-content: flex-start;
     height: 250px;
 }
 
-/* Galeria de imagens */
 .img2 {
     display: flex;
     justify-content: center;
@@ -93,7 +86,6 @@ h1 {
     height: auto;
 }
 
-/* Lista de tempo */
 .tempo li {
     font-size: 20px;
     padding: 15px;
@@ -109,13 +101,11 @@ h1 {
     flex-wrap: wrap;
 }
 
-/* Texto */
 .paragrafo {
     text-align: justify;
     margin-bottom: 40px;
 }
 
-/* Ingredientes */
 .ingredientes {
     display: flex;
     justify-content: space-evenly;
@@ -131,7 +121,6 @@ h1 {
     gap: 15px;
 }
 
-/* Botões/links */
 a {
     text-decoration: none;
     color: white;
@@ -146,7 +135,6 @@ a {
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
 }
 
-/* Seções extras */
 .titulo {
     display: flex;
     flex-direction: column;
