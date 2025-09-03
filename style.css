@@ -156,4 +156,9 @@ a {
 .ingredientes{
     display: flex;
     justify-content: space-evenly;
+    gap: 10px;
+}
+
+.format{
+    margin: 20px;
 }
